@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : SymbolTable.cpp
-// Author      : 
-// Version     :
+// Author      : aniket lavand
+// Version     :1.1
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================

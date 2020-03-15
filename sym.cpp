@@ -57,7 +57,7 @@ public:
 bool SymbolTable::modify(string id)
 {
 	int index=hashf(id);
-	//cout<<"\nIndex in find"<<index;
+	
 	node *start=head[index];
 	if(start==NULL)
 		return "-1";
